@@ -1,4 +1,3 @@
-package Alerta;
 import Usuario;
 
 import NotificacionTransacciones.NotificacionStrategy;
